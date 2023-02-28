@@ -1,0 +1,109 @@
+"","sub_enabler","Company","value"
+"x1","Management supprt","Company A",0.000502004888640045
+"x2","User input","Company A",0.00121019691857617
+"x3","Vision","Company A",0.00275857564783808
+"x4","Implementation plan","Company A",0.00415105768138688
+"x5","Stake holder analysis","Company A",0.000942128747468576
+"x6","BIM policy","Company A",0.000531623045310018
+"x7","Risk analysis","Company A",0.00037892226204786
+"x8","Collegial help","Company A",0.00230819507051279
+"x9","BIM expertise","Company A",0.0036774367872073
+"x10","Competency assessment","Company A",0.0114874070403073
+"x11","Learning by doing","Company A",0.0191355431568769
+"x12","Community of practice","Company A",0.0101209082447393
+"x13","Learning from past","Company A",0.0038058376050787
+"x14","Change agent","Company A",0.00951309863930166
+"x15","User involvement","Company A",0.00762320287473091
+"x16","Open communication","Company A",0.0268014350924576
+"x17","KM system","Company A",0.0190681875507836
+"x18","Technology","Company A",0.00955491508924711
+"x19","Organization linkage","Company A",0.00505009855604159
+"x20","Cross-functional cooperation","Company A",0.00546574265791441
+"x21","Reward","Company A",0.0109550707819017
+"x22","User training","Company A",0.0182838852581797
+"x23","Supportive supervisor","Company A",0.0073396274337638
+"x24","Management readiness","Company A",0.00915330204721189
+"x25","Benchmarking tools","Company A",0.00913381298041572
+"x26","Maturity assessment","Company A",0.00728567714363445
+"x27","Benefit assessment","Company A",0.00366728417072127
+"x110","Management supprt","Company B",NA
+"x28","User input","Company B",NA
+"x31","Vision","Company B",NA
+"x41","Implementation plan","Company B",NA
+"x51","Stake holder analysis","Company B",NA
+"x61","BIM policy","Company B",0.000291578276225121
+"x71","Risk analysis","Company B",0.0127349214410711
+"x81","Collegial help","Company B",NA
+"x91","BIM expertise","Company B",NA
+"x101","Competency assessment","Company B",NA
+"x111","Learning by doing","Company B",0.00949557095666035
+"x121","Community of practice","Company B",0.00676590635871004
+"x131","Learning from past","Company B",0.00386314578309369
+"x141","Change agent","Company B",NA
+"x151","User involvement","Company B",NA
+"x161","Open communication","Company B",NA
+"x171","KM system","Company B",NA
+"x181","Technology","Company B",NA
+"x191","Organization linkage","Company B",NA
+"x201","Cross-functional cooperation","Company B",NA
+"x211","Reward","Company B",0.0109779181147458
+"x221","User training","Company B",NA
+"x231","Supportive supervisor","Company B",NA
+"x241","Management readiness","Company B",NA
+"x251","Benchmarking tools","Company B",0.00916057662120619
+"x261","Maturity assessment","Company B",0.00729608074433218
+"x271","Benefit assessment","Company B",0.00359961567207148
+"x112","Management supprt","Company C",0.000401610972380788
+"x29","User input","Company C",0.00954703144670413
+"x32","Vision","Company C",NA
+"x42","Implementation plan","Company C",0.0143710737942122
+"x52","Stake holder analysis","Company C",0.00318342019757082
+"x62","BIM policy","Company C",0.00130761771198277
+"x72","Risk analysis","Company C",0.0127316158413914
+"x82","Collegial help","Company C",0.000994862793424732
+"x92","BIM expertise","Company C",NA
+"x102","Competency assessment","Company C",0.00498426771347507
+"x113","Learning by doing","Company C",0.0083329013079472
+"x122","Community of practice","Company C",0.00669828018088042
+"x132","Learning from past","Company C",0.00339734941699157
+"x142","Change agent","Company C",0.0095927255319796
+"x152","User involvement","Company C",0.00498407167557249
+"x162","Open communication","Company C",0.0177317704625123
+"x172","KM system","Company C",0.0128308516640945
+"x182","Technology","Company C",NA
+"x192","Organization linkage","Company C",NA
+"x202","Cross-functional cooperation","Company C",NA
+"x212","Reward","Company C",0.0108962798863051
+"x222","User training","Company C",0.0182908352729654
+"x232","Supportive supervisor","Company C",0.0072455182696952
+"x242","Management readiness","Company C",0.00910760683181211
+"x252","Benchmarking tools","Company C",0.00920243091980353
+"x262","Maturity assessment","Company C",0.00732095059322624
+"x272","Benefit assessment","Company C",0.00365921634645285
+"x114","Management supprt","Company S",0.0157027709307437
+"x210","User input","Company S",0.00952817184137686
+"x33","Vision","Company S",0.00968519179374677
+"x43","Implementation plan","Company S",0.0142190939847703
+"x53","Stake holder analysis","Company S",0.00312122410031619
+"x63","BIM policy","Company S",0.0050199523904251
+"x73","Risk analysis","Company S",0.0129416412117544
+"x83","Collegial help","Company S",0.00840748462542454
+"x93","BIM expertise","Company S",0.0126003919275501
+"x103","Competency assessment","Company S",0.00518711776262739
+"x115","Learning by doing","Company S",0.00794999871276873
+"x123","Community of practice","Company S",0.00632399145782474
+"x133","Learning from past","Company S",0.00324819590377963
+"x143","Change agent","Company S",0.00841762568735095
+"x153","User involvement","Company S",0.00481403452152736
+"x163","Open communication","Company S",0.0117709439538937
+"x173","KM system","Company S",0.00806250145927996
+"x183","Technology","Company S",0.00870367381378543
+"x193","Organization linkage","Company S",0.00298992214548382
+"x203","Cross-functional cooperation","Company S",0.00560575550345802
+"x213","Reward","Company S",0.0108830297548353
+"x223","User training","Company S",0.0184571746501869
+"x233","Supportive supervisor","Company S",0.00761890602680467
+"x243","Management readiness","Company S",0.00883754863171428
+"x253","Benchmarking tools","Company S",0.00925517355716204
+"x263","Maturity assessment","Company S",0.00719670706013012
+"x273","Benefit assessment","Company S",0.00305913045034262
