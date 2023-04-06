@@ -1,0 +1,109 @@
+x,Enabler,Company,value
+x01,Top management supprt,Company A,0.000502005
+x02,Incorporating user's input,Company A,0.001210197
+x03,BIM-enabled vision,Company A,0.002758576
+x04,Implementation plan,Company A,0.004151058
+x05,Stakeholder analysis,Company A,0.000942129
+x06,BIM policy,Company A,0.000531623
+x07,Risk analysis,Company A,0.000378922
+x08,Collegial help,Company A,0.002308195
+x09,BIM expertise,Company A,0.003677437
+x10,Individual competency assessment,Company A,0.011487407
+x11,Learning by doing,Company A,0.019135543
+x12,Community of practice,Company A,0.010120908
+x13,Learning from past,Company A,0.003805838
+x14,Existance of change agent,Company A,0.009513099
+x15,User involvement,Company A,0.007623203
+x16,Open communication,Company A,0.026801435
+x17,BIM-based KM system,Company A,0.019068188
+x18,Use of communication technology,Company A,0.009554915
+x19,Inter-organization linkage,Company A,0.005050099
+x20,Cross-functional cooperation,Company A,0.005465743
+x21,Rewards and recognition ,Company A,0.010955071
+x22,User training and education,Company A,0.018283885
+x23,Supportive supervisor,Company A,0.007339627
+x24,Management readiness for change,Company A,0.009153302
+x25,External benchmarking tools/metrics,Company A,0.009133813
+x26,Capability and maturity assessment,Company A,0.007285677
+x27,Benefit assessment tools,Company A,0.003667284
+x01,Top management supprt,Company B,NA
+x02,Incorporating user's input,Company B,NA
+x03,BIM-enabled vision,Company B,NA
+x04,Implementation plan,Company B,NA
+x05,Stakeholder analysis,Company B,NA
+x06,BIM policy,Company B,0.000291578
+x07,Risk analysis,Company B,0.012734921
+x08,Collegial help,Company B,NA
+x09,BIM expertise,Company B,NA
+x10,Individual competency assessment,Company B,NA
+x11,Learning by doing,Company B,0.009495571
+x12,Community of practice,Company B,0.006765906
+x13,Learning from past,Company B,0.003863146
+x14,Existance of change agent,Company B,NA
+x15,User involvement,Company B,NA
+x16,Open communication,Company B,NA
+x17,BIM-based KM system,Company B,NA
+x18,Use of communication technology,Company B,NA
+x19,Inter-organization linkage,Company B,NA
+x20,Cross-functional cooperation,Company B,NA
+x21,Rewards and recognition ,Company B,0.010977918
+x22,User training and education,Company B,NA
+x23,Supportive supervisor,Company B,NA
+x24,Management readiness for change,Company B,NA
+x25,External benchmarking tools/metrics,Company B,0.009160577
+x26,Capability and maturity assessment,Company B,0.007296081
+x27,Benefit assessment tools,Company B,0.003599616
+x01,Top management supprt,Company C,0.000401611
+x02,Incorporating user's input,Company C,0.009547031
+x03,BIM-enabled vision,Company C,NA
+x04,Implementation plan,Company C,0.014371074
+x05,Stakeholder analysis,Company C,0.00318342
+x06,BIM policy,Company C,0.001307618
+x07,Risk analysis,Company C,0.012731616
+x08,Collegial help,Company C,0.000994863
+x09,BIM expertise,Company C,NA
+x10,Individual competency assessment,Company C,0.004984268
+x11,Learning by doing,Company C,0.008332901
+x12,Community of practice,Company C,0.00669828
+x13,Learning from past,Company C,0.003397349
+x14,Existance of change agent,Company C,0.009592726
+x15,User involvement,Company C,0.004984072
+x16,Open communication,Company C,0.01773177
+x17,BIM-based KM system,Company C,0.012830852
+x18,Use of communication technology,Company C,NA
+x19,Inter-organization linkage,Company C,NA
+x20,Cross-functional cooperation,Company C,NA
+x21,Rewards and recognition ,Company C,0.01089628
+x22,User training and education,Company C,0.018290835
+x23,Supportive supervisor,Company C,0.007245518
+x24,Management readiness for change,Company C,0.009107607
+x25,External benchmarking tools/metrics,Company C,0.009202431
+x26,Capability and maturity assessment,Company C,0.007320951
+x27,Benefit assessment tools,Company C,0.003659216
+x01,Top management supprt,Start up,0.015702771
+x02,Incorporating user's input,Start up,0.009528172
+x03,BIM-enabled vision,Start up,0.009685192
+x04,Implementation plan,Start up,0.014219094
+x05,Stakeholder analysis,Start up,0.003121224
+x06,BIM policy,Start up,0.005019952
+x07,Risk analysis,Start up,0.012941641
+x08,Collegial help,Start up,0.008407485
+x09,BIM expertise,Start up,0.012600392
+x10,Individual competency assessment,Start up,0.005187118
+x11,Learning by doing,Start up,0.007949999
+x12,Community of practice,Start up,0.006323991
+x13,Learning from past,Start up,0.003248196
+x14,Existance of change agent,Start up,0.008417626
+x15,User involvement,Start up,0.004814035
+x16,Open communication,Start up,0.011770944
+x17,BIM-based KM system,Start up,0.008062501
+x18,Use of communication technology,Start up,0.008703674
+x19,Inter-organization linkage,Start up,0.002989922
+x20,Cross-functional cooperation,Start up,0.005605756
+x21,Rewards and recognition ,Start up,0.01088303
+x22,User training and education,Start up,0.018457175
+x23,Supportive supervisor,Start up,0.007618906
+x24,Management readiness for change,Start up,0.008837549
+x25,External benchmarking tools/metrics,Start up,0.009255174
+x26,Capability and maturity assessment,Start up,0.007196707
+x27,Benefit assessment tools,Start up,0.00305913
